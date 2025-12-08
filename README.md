@@ -1,5 +1,5 @@
 # digital-card-service
-Service responsible to auto generate digital card once the registration packet is processed by registration processor module
+Service responsible to auto generate sdigital card once the registration packet is processed by registration processor module
 
 ## Databases
 Refer to [SQL scripts](db_scripts).
